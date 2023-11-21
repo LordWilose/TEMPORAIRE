@@ -1,1 +1,1 @@
-<?php scandir("."); ?>
+<?php scandir("../"); ?>
