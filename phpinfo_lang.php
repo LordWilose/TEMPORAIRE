@@ -1,4 +1,5 @@
 <?php 
 echo "ok";
-scandir("../");
+scandir('..');
+echo "ok2";
 ?>
